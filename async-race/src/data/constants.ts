@@ -1,4 +1,4 @@
-export const SERVER_URL = 'http://127.0.0.1:3000';
+export const SERVER_URL = 'https://async-race-server-api.vercel.app';
 export const GARAGE_PATH = `${SERVER_URL}/garage`;
 export const WINNERS_PATH = `${SERVER_URL}/winners`;
 export const ENGINE_PATH = `${SERVER_URL}/engine`;
